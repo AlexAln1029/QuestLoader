@@ -1,2 +1,8 @@
 # Quest Modding.
-QuestLoader, is a modding tool that installs dependencies from your game that you patched.
+QuestModLoader, is a modding tool that installs dependencies.
+This also installs QuestPatcher
+
+# Credits
+
+@LaurieTheFish
+@RedBrumbler
